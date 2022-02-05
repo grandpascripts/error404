@@ -1,2 +1,0 @@
-local hash = {}
-return hash
