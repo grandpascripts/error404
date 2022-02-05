@@ -1,4 +1,4 @@
 local hash = {
-    "wgzN5gzMwITO? -> String Encrypted using hasher 3.2.A"
+    "AMyUjMxQTOwgjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;2712"
 }
 return hash
