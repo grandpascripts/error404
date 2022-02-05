@@ -1,0 +1,2 @@
+local hash = {}
+return hash
