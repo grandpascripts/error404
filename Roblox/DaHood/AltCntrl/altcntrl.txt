@@ -7,22 +7,18 @@ getgenv().Settings = {
     ['MainCrasher'] = {},
     ['BringerID'] = {}, -- One ID
     ['StopperID'] = {}, -- One ID
+    ['webhook_url'] = "",
 
     ['gpu'] = {
-        ['auto_fps'] = true,
+        ['auto_fps'] = false,
         ['fps'] = 20,
-        ['auto_d3d'] = true,
+        ['auto_d3d'] = false,
     },
     ['advertisement'] = {
         ['message'] = 'discord.gg/encrypt',
         ['cooldown'] = 10,
-    },
-    ['info'] = {
-        ['webhook'] = '',
-        ['webhook_sender'] = {},
     }
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/grandpascripts/error404/main/Roblox/DaHood/AltCntrl/script.lua"))()
 
 Commands:
 setup [admin/subway/jailyard/jailcell/bank/highschool/club] - Sets up you're alts.
