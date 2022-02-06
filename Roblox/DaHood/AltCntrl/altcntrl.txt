@@ -1,0 +1,53 @@
+Script:
+
+getgenv().Settings = {
+    ['Operator'] = {},
+    ['Prefix'] = "?",
+    ['Alts'] = {},
+    ['MainCrasher'] = {},
+    ['BringerID'] = {}, -- One ID
+    ['StopperID'] = {}, -- One ID
+
+    ['gpu'] = {
+        ['auto_fps'] = false,
+        ['fps'] = 20,
+        ['auto_d3d'] = false,
+    },
+    ['advertisement'] = {
+        ['message'] = 'discord.gg/encrypt',
+        ['cooldown'] = 10,
+    },
+    ['info'] = {
+        ['webhook'] = '',
+        ['webhook_sender'] = {},
+    }
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/grandpascripts/error404/main/Roblox/DaHood/AltCntrl/script.lua"))()
+
+Commands:
+setup [admin/subway/jailyard/jailcell/bank/highschool/club] - Sets up you're alts.
+bring [plr] - Brings a player.
+freeze [plr] - Freezes a player.
+unfreeze  [plr] - Unfreezes player.
+reset [plr] - Resets a player.
+airlock [plr] - Airlocks a player.
+unairlock [plr] - Unairlocks a player.
+wallet [plr] - Shows a player wallet.
+unwallet [plr] - Unshows a player wallet.
+destroy [plr] - Destroy's cash on a players screen.
+undestroy [plr] - Stops destroying cash on a players screen.
+block [plr] - Blocks on a player.
+unblock [plr] - Unblocks on a player.
+surround [plr] - Surround a player.
+drop [plr] - Drops 7k on a player.
+undrop [plr] - Stops dropping 7k on a player.
+vibe [plr] - Makes a player dance.
+unvibe [plr] - Stops making a player dance.
+ad [plr] - Advertises you're advertisement message.
+unad [plr] - Stops advertising you're advertisement message.
+buyerbring [plr] - Brings a player to the operator.
+customdrop [amount] - Drops until it reaches the specific amount of cash.
+pause [plr] - Pauses custom drop on a player screen.
+moneygun [buy/on/off] - Toggles on/off the money gun and buys it.
+infosend [plr] - Sends a webhook full of server info on a alt.
+setstop [amount] [plr] - Kills a player when cash goal is met.
