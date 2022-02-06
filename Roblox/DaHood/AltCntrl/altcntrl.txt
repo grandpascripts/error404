@@ -19,6 +19,7 @@ getgenv().Settings = {
         ['cooldown'] = 10,
     }
 }
+loadstring(game:HttpGet("https://raw.githubusercontent.com/grandpascripts/error404/main/Roblox/DaHood/AltCntrl/script.lua"))()
 
 Commands:
 setup [admin/subway/jailyard/jailcell/bank/highschool/club] - Sets up you're alts.
