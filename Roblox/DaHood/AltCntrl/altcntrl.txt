@@ -9,9 +9,9 @@ getgenv().Settings = {
     ['StopperID'] = {}, -- One ID
 
     ['gpu'] = {
-        ['auto_fps'] = false,
+        ['auto_fps'] = true,
         ['fps'] = 20,
-        ['auto_d3d'] = false,
+        ['auto_d3d'] = true,
     },
     ['advertisement'] = {
         ['message'] = 'discord.gg/encrypt',
