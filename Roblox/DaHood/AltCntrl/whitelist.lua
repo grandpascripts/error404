@@ -133,5 +133,6 @@ local hash = {
     "QNwcTMwIzMzEzM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;1554",
     "wM5QjM1ITM4gjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;8047",
     "5IjM0cTMzQjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;3653",
+    "gM1MTM2AjN2YjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;289",
 }
 return hash
