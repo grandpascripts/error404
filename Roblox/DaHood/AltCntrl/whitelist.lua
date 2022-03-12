@@ -115,12 +115,10 @@ local hash = {
     "gN3kzM4MTOxITM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;8734",
     "gM3kDN0EzNzMTM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;6012",
     "QN5czMzIDN4UTM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;8259",
-    "AO5YTMwMTM2AjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;952",
     "ITO0gTNzkjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;8073",
     "gM3UDO2MjM4YjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;7512",
     "QO0kzN0MTN4YjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;9468",
     "AN2EDNxcDO1QjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;6778",
-    "AO5YTMwMTM2AjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;2909",
     "gM2UDN2ETM4EzM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;8575",
     "QOwYTMwQzMyYjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;4719",
     "xgTMwkjM0kjN? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;4869",
@@ -140,5 +138,6 @@ local hash = {
     "gM3UDO2UTO0QjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;2212",
     "1ITOzQDO2EzN? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;8605",
     "2QTOxkTNxIzN? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;8258",
+    "QO3QDM1EDMzUjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;5386",
 }
 return hash
