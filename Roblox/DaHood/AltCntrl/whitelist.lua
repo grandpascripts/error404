@@ -170,8 +170,9 @@ local hash = {
     "5ITN0czN0QjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;610",
     "AN0IzXrlGNt9mc? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;3041",
     "wZul2ahhWar92S? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;6632", -- < 4 Days tester
-    "TNjVBJ1ROlETMRjR? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;5611",
+    "QNyADM0ITM0IzM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;5611",
     "wSGRHcll0c? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;6775",
+    "1QjM5QDN3ETM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;4918",
 }
 
 return hash
