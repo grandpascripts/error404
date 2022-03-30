@@ -177,6 +177,8 @@ local hash = {
     "0MzNyUjNwUTN? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;7996",
     "QN0cDM5ITN3MzM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;6879",
     "wMzIjM2AjN2MzM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;9306",
+    "4czMxQjNyUDN? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;2399",
+    "wM2cTN2UzNzgjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;6366",
 }
 
 return hash
