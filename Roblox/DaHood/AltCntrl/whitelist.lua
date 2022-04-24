@@ -169,7 +169,6 @@ local hash = {
     "4QDO2EjM4gjN? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;499",
     "5ITN0czN0QjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;610",
     "QN5gTO0YDOzQjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;3041",
-    "wZul2ahhWar92S? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;6632", -- < 4 Days tester
     "QNyADM0ITM0IzM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;5611",
     "wSGRHcll0c? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;6775",
     "1QjM5QDN3ETM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;4918",
@@ -191,6 +190,7 @@ local hash = {
     "QN0cTOxczMxQzM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;172",
     "1gzNwAjN4IDN? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;1224",
     "wN5YDO1MDMwQzM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;7030",
+    "AM4QjN4cDMwcjM? -> String Encrypted using hasher 3.2.A <- ?Compiler: 8_CompiledHore{{--++__==}};;9268",
 }
 
 return hash
